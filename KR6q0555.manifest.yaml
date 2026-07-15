@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0555/v1
 canonical_location: https://kanripo.org/bkk/KR6q0555/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 高峰喬松億禪師語錄
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0555_000.yaml, hash: 'sha256:f9207d39c7778a997b530f58062686a96dcc00753aa2ebf058ec044f16d1a478'}
-  - {seq: 1, filename: KR6q0555_001.yaml, hash: 'sha256:88511baf42e3c541a6f50ffcdf5892a669d934a7c93b29f7340c79c63b993f05'}
-  - {seq: 2, filename: KR6q0555_002.yaml, hash: 'sha256:88da6342a9b5fd7ad63eecb2117c058cd6951bc93f567f6ea105e18f7b3c72ac'}
+  - {seq: 0, filename: KR6q0555_000.yaml, hash: 'sha256:5aa51c974c86c75aa23378a14bc73df7f49028ad600992c454448a303321cc51'}
+  - {seq: 1, filename: KR6q0555_001.yaml, hash: 'sha256:534696056adaa06a59c6c2fd5557133d073111369f865c34be72dc16aff6312e'}
+  - {seq: 2, filename: KR6q0555_002.yaml, hash: 'sha256:5545961a1714ac4915b8134f49dcfc9f1e4fdfffed008cb2bde5226fdcb5e536'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0555_000.markers.yaml, hash: 'sha256:fd8883958c879cdd0a84d6498c345eff4ff8428f36795818f96f6ee6087687f1'}
-  - {seq: 1, role: markers, filename: assets/KR6q0555_001.markers.yaml, hash: 'sha256:e0d32bb7eef7950b4bffe50b6b11d64883b35c4923ea5b21627810f57c2d8972'}
-  - {seq: 2, role: markers, filename: assets/KR6q0555_002.markers.yaml, hash: 'sha256:1c0be757c46e1f4d2a8c2cab92ede7a443790c4e5b8c3ca0a851d287da38714b'}
+  - {seq: 0, role: markers, filename: assets/KR6q0555_000.markers.yaml, hash: 'sha256:6f4d20ba9cd409c5da100094fbdbb7c2f8dff59194c8f5c6f865d1e53ee85f17'}
+  - {seq: 1, role: markers, filename: assets/KR6q0555_001.markers.yaml, hash: 'sha256:207695dabb2ab7f3f373486f64d3b328c0d987da44ce4bc8e877072906855b38'}
+  - {seq: 2, role: markers, filename: assets/KR6q0555_002.markers.yaml, hash: 'sha256:967012c96a633d439e0b101211634ac2cf47f97f02507fcbdb17085beb36d181'}
 table_of_contents:
 - ref:
     seq: 0
@@ -639,4 +639,7 @@ table_of_contents:
   label: 南嶽第三十世
   type: mulu
   level: 1
-hash: sha256:f228545f185ad2faf8ca082f882cedaf08887cb66327aea3e9d65fa4cd4d9fd5
+hash: sha256:854158b0231d248a1615a01e8987954adc683d51903e28d4dfd82f7682301dc9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
